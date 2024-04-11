@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config "C:\Users\xianyx\AppData\Local\Programs\oh-my-posh\themes\onehalf.minimal.omp.json" | Invoke-Expression
